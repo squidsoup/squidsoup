@@ -1,4 +1,10 @@
-### Hi there 👋
+### Kia ora 👋
+
+I'm kit, a frontend engineer, and engineering manager, based in Dunedin, New Zealand.
+
+Currently I'm working on building an exciting new cloud governanace as code platform at [Stacklet](https://stacklet.io) with typescript, react and relay. 
+
+You can reach me on the [Develop NZ slack](https://developnz.herokuapp.com/).
 
 <!--
 **squidsoup/squidsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
