@@ -1,6 +1,6 @@
 ### Kia ora 👋
 
-I'm kit, a frontend engineer, and engineering manager, based in Dunedin, New Zealand.
+I'm kit, an engineer and engineering manager, based in Dunedin, New Zealand.
 
 Currently I'm working on building an exciting new cloud governanace as code platform at [Stacklet](https://stacklet.io) with typescript, react and relay. 
 
